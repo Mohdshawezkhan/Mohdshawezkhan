@@ -2,6 +2,11 @@
 
 ###
 
+<h2 align="left">Passionate BTech Student Delving into Artificial Intelligence & Data Science: Interested in AI, Machine Learning, Deep Learning, Computer Vision, and Generative AI.</h2>
+
+###
+
+
 <h2 align="left">## 🛠  Technologies and tools</h2>
 
 ###
@@ -23,9 +28,6 @@
   <img width="12" />
 </div>
 
-###
-
-<h3 align="left">Passionate BTech Student Delving into Artificial Intelligence & Data Science: Interested in AI, Machine Learning, Deep Learning, Computer Vision, and Generative AI.</h3>
 
 ###
 
